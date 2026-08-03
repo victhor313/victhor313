@@ -93,4 +93,21 @@ Estou Cursando o 2º ano de Análise e Desenvolvimento de Sistemas na UNIP (bols
 </div>
 
 
+<img data-importer="snake" src="https://raw.githubusercontent.com/victhor313/victhor313/snake-output/snake.svg" alt="Snake animation" />
+name: Generate Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+# seus passos aqui...
 [linkedin]: https://www.linkedin.com/in/victhor-saymon313/
