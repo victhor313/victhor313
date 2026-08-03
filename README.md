@@ -87,27 +87,8 @@ Estou Cursando o 2º ano de Análise e Desenvolvimento de Sistemas na UNIP (bols
 
 ### 📊 Estatísticas
 ---
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/victhor313/victhor313/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/victhor313/victhor313/languages-output/languages.svg?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="269" alt="languages graph"  />
-</div>
-
 
 <img data-importer="snake" src="https://raw.githubusercontent.com/victhor313/victhor313/snake-output/snake.svg" alt="Snake animation" />
 name: Generate Stats
 
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-permissions:
-  contents: write
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-
-    steps:
-# seus passos aqui...
 [linkedin]: https://www.linkedin.com/in/victhor-saymon313/
