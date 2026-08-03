@@ -6,7 +6,7 @@ Me chamo Victhor Saymon, tenho 23 anos e sou natural de São Paulo.
 Estou Cursando o 2º ano de Análise e Desenvolvimento de Sistemas na UNIP (bolsista integral ProUni via Enem),entre um bug e outro, estou me tornando um desenvolvedor curioso por natureza". 
 
 ---
-
+<img data-importer="image" align="right" height="177" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmdsY3BiZDFhc3pxMXh1bGU0MHc3Njc4OW92azVrczZvZmIwbmg1cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OLPQ6z2hlHmwFc4Hso/giphy.gif"  />
 
 
 ### 👌 Linguages e Tecnologias
@@ -87,8 +87,10 @@ Estou Cursando o 2º ano de Análise e Desenvolvimento de Sistemas na UNIP (bols
 
 ### 📊 Estatísticas
 ---
-
-![Metrics](https://metrics.lecoq.io/victhor313) | ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=victhor313&layout=compact&theme=tokyonight) |
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/victhor313/victhor313/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/victhor313/victhor313/languages-output/languages.svg?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="269" alt="languages graph"  />
+</div>
 
 
 [linkedin]: https://www.linkedin.com/in/victhor-saymon313/
