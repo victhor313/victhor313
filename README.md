@@ -78,17 +78,3 @@ Estou Cursando o 2º ano de Análise e Desenvolvimento de Sistemas na UNIP (bols
 
 <br/>
 <br/>
-
-
-
-
-
-#
-
-### 📊 Estatísticas
----
-
-<img data-importer="snake" src="https://raw.githubusercontent.com/victhor313/victhor313/snake-output/snake.svg" alt="Snake animation" />
-name: Generate Stats
-
-[linkedin]: https://www.linkedin.com/in/victhor-saymon313/
