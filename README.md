@@ -34,6 +34,11 @@ Estou Cursando o 2º ano de Análise e Desenvolvimento de Sistemas na UNIP (bols
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
 </div>
 
+<br/>
+<br/>
+
+
+
 <div data-importer="socials" align="left">
   <a href="https://www.instagram.com/victhor.si/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -48,8 +53,6 @@ Estou Cursando o 2º ano de Análise e Desenvolvimento de Sistemas na UNIP (bols
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>          
-<div data-importer="stats" align="center">
-</div>
 
 <br/>
 <br/>
