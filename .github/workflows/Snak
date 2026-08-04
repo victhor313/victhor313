@@ -1,16 +1,12 @@
 name: Generate Snake Animation
 
 on:
- 
   schedule:
     - cron: "0 */12 * * *"
-  
   workflow_dispatch:
-  
   push:
     branches:
       - main
-
 
 permissions:
   contents: write
@@ -20,28 +16,20 @@ jobs:
     runs-on: ubuntu-latest
     name: Jobs to generate snake
     steps:
-     
       - name: Checkout
         uses: actions/checkout@v4
 
-     
       - name: Generate snake.svg
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          # Gera a imagem na pasta raiz e usa o tema dark
           outputs: |
             snake.svg?palette=github-dark
 
-     
-      - name: Setup git config
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.io"
-
-     
       - name: Push changes
-        run: |
-          git add snake.svg
-          git commit -m "Update generated snake animation"
-          git push origin main
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: main
+          force: true
+          commit_message: "Update generated snake animation"
