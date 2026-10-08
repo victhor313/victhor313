@@ -18,7 +18,7 @@ Tenho 23 anos, sou de São Paulo e curso o 2º ano de Análise e Desenvolvimento
 
 ## 🎯 Objetivo
 
-Estágio na área de **desenvolvimento de software**, onde eu possa aprender com um time experiente e contribuir com entregas reais.
+Estágio ou vaga júnior em **back-end e dados**, onde eu possa aprender com um time experiente e contribuir com entregas reais.
 
 ## 🛠️ Stack
 
